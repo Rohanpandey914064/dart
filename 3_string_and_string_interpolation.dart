@@ -1,13 +1,13 @@
 void main(){
-  var isCool = true;
-  int x = 2;
-  "rohan";
-  4.5;
+  // var isCool = true;
+  // int x = 2;
+  // "rohan";
+  // 4.5;
 
-  String s1 = 'Rohan Pandey';
-  String s2 = "Rohan Pandey";
-  String s3 = 'Rohan\'s Pandey';
-  String s4 = "Rohan's Pandey";
+  // String s1 = 'Rohan Pandey';
+  // String s2 = "Rohan Pandey";
+  // String s3 = 'Rohan\'s Pandey';
+  // String s4 = "Rohan's Pandey";
 
   String name = "Rohan Pandey";
   print("My name is $name");
